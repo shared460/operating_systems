@@ -43,3 +43,7 @@ int main(int argc, char *argv[]){
     close(f2);
     exit(0);
 }
+
+//execution
+//1. cc prgm2.c
+//2. ./a.out file1 file2
